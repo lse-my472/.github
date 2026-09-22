@@ -3,12 +3,10 @@
 _Autumn Term 2026_ \
 Course convenor: [Ryan Hübert](https://www.lse.ac.uk/people/ryan-hubert)
 
-MY472 builds foundational fluency with digital data: what it is, 
-how it is represented, and how it is acquired, stored, managed, and 
-presented in social science research and data science applications.
+MY472 builds foundational fluency with digital data: what it is, how it is represented, and how it is acquired, stored, managed, and presented in social science research and data science applications.
 
-This is the course homepage for MY472, where you will be able to find
-all the information, learning materials and resources you need for this
-course. 
+Course information can be found on the course website: <https://lse-my472.github.io/>
 
-_More information will be posted closer to the start of the Autumn Term._
+Students taking the course work inside this organisation. Once you have enrolled, start at [Getting started with MY472](https://github.com/lse-my472/at26-getting-started).
+
+Course materials are private to enrolled students and staff.
